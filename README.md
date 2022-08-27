@@ -1,1 +1,1 @@
-# Stock-Market-Scrapper
+# Stock Market Scrapper
