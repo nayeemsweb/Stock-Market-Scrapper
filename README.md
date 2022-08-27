@@ -11,7 +11,7 @@ Firstly, clone the project-
 ```
 https://github.com/nayeemsweb/Stock-Market-Scrapper.git
 ```
-Secondly, Open the project in Visual Studio by running the `TicketPurchase.sln` solution file - 
+Secondly, Open the project in Visual Studio by running the `StockData.sln` solution file - 
 ```
 cd Stock-Market-Scrapper/src/StockData
 ```
